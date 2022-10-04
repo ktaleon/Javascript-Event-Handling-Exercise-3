@@ -1,0 +1,24 @@
+#center{
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#countdown{
+    background-color:#63d7fb;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    border-radius: 50%;
+}
+
+#launched{  
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size: 50px;
+}
